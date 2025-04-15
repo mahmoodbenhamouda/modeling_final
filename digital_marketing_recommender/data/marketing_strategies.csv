@@ -1,0 +1,16 @@
+strategy_id,strategy_name,budget_required,technical_expertise,time_investment,conversion_rate,brand_awareness,lead_generation,customer_retention,best_for_industry,target_audience_size
+1,Social Media Marketing,3,2,4,3,5,3,3,"Retail,Food,Fashion,Beauty",5
+2,Search Engine Optimization (SEO),4,4,5,4,3,4,2,"All",5
+3,Email Marketing,2,2,3,4,2,4,5,"All",4
+4,Content Marketing,3,3,5,3,4,4,3,"Education,Technology,B2B",4
+5,Pay-Per-Click Advertising,5,3,2,4,3,5,2,"E-commerce,Real Estate,Services",5
+6,Influencer Marketing,4,2,3,3,5,3,2,"Fashion,Beauty,Fitness,Travel",4
+7,Video Marketing,4,4,4,3,5,3,3,"Entertainment,Education,Products",5
+8,Affiliate Marketing,3,3,3,4,2,4,3,"E-commerce,Digital Products",4
+9,SMS Marketing,2,2,2,3,2,3,4,"Retail,Events,Services",3
+10,Podcast Advertising,3,3,3,2,4,3,2,"B2B,Technology,Finance",3
+11,Local SEO,3,3,4,4,3,4,3,"Local Business,Restaurants,Services",2
+12,Webinars,4,4,4,3,3,5,4,"B2B,Education,Technology",3
+13,Social Media Ads,4,3,3,4,4,4,2,"All",5
+14,Retargeting Campaigns,4,3,2,5,2,4,4,"E-commerce,Travel,Services",4
+15,Community Marketing,2,2,5,2,4,3,5,"SaaS,Technology,Gaming",3
